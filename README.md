@@ -2,8 +2,6 @@
 
 A regression-based forecasting project that predicts **Costco's quarterly revenue** using historical financial data and seasonal dummy variables.
 
-Developed as part of **AFM 244 – Data Analytics** at the University of Waterloo.
-
 ## Project Overview
 
 This project analyzes Costco's quarterly revenue from **2011 Q4 to 2025 Q4** and builds multiple linear regression models to determine how seasonality affects revenue.
@@ -133,6 +131,3 @@ Model 2 achieved the lowest forecasting error and was selected as the final mode
 
 * Tanner Vo Tran
 * Jenny Vuong
-
-University of Waterloo
-AFM 244 – Data Analytics
